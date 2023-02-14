@@ -1,0 +1,9 @@
+.userlist{
+    background-color: rgb(20, 200, 200);
+    display: grid;
+    gap: 20px;
+    grid-auto-rows: auto;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+    
+}
